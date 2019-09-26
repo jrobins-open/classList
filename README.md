@@ -1,6 +1,6 @@
 # Class List for 1.125 - Fall 2019
 First-Name,Last-Name,GithubID
-Joe,Robinson,jrobins-open
+Joe,Robinson,jrobins-open, https://jrobins-open.github.io/hw1/
 Keiji,Kimura,keijikimura1986
 Hannah,Phillips,hannahph
 Allison,Johnson,allij-dev
